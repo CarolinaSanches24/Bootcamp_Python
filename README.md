@@ -5,10 +5,9 @@
 
 ```bash
 git remote -v
-
+```
 Saída:
 
-perl
-Copy code
+
 origin  https://github.com/usuario/repositorio.git (fetch)
 origin  https://github.com/usuario/repositorio.git (push)
