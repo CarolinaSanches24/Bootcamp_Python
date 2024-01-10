@@ -1,4 +1,8 @@
 # Revisão de Git
+Inicializando Repositorio git
+```bash
+git init
+```
   Para visualizar os repositórios remotos, utilize o comando:
 
 ```bash
