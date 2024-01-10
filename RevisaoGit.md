@@ -40,6 +40,10 @@ git commit -m "Mensagem do commit"
 
 Clonando um repositório
 
+```bash
+git clone https://github.com/example/repository.git
+```
+
 Criando uma nova branch
 
 ```bash
@@ -54,6 +58,31 @@ git status
 
 Fazendo um pull request
 
-Criando um issue
+- Clicar no link gerado no terminal
+  ![Criando Pull request](./assets/image-6.png)
+- Faça as mesmas configurações que foram feitas no issue
+- Clique em Create pull request
+- Vincular issue
+  ![Vinculando Issue](./assets/image-9.png)
+  Criando um issue
+  ![Alt text](./assets/image-8.png)
 
-Adicionar ao repositorio do git projects
+![Atribuido a membro ](./assets/image-1.png)
+Personalizando label
+![Editando labels](./assets/image-2.png)
+![Alterando informações da label](./assets/image-3.png)
+![Adicionando nova label](./assets/image-4.png)
+Atribuindo Issue a um projeto
+![Selecionando Projeto](./assets/image-5.png)
+
+Enviando as alterações locais para um repositório remoto.
+
+```bash
+git push
+```
+
+Criando uma nova branch local e deseja empurrá-la para o repositório remoto pela primeira vez
+
+```bash
+git push --set-upstream origin [NOME_DO_BRANCH_LOCAL]
+```
