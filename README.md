@@ -1,6 +1,4 @@
-# Bootcamp_Python
-
-* Revisão de Git
+# Revisão de Git
   Para visualizar os repositórios remotos, utilize o comando:
 
 ```bash
