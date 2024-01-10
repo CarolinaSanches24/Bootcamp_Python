@@ -8,6 +8,7 @@ git remote -v
 ```
 Saída:
 
-
+```bash
 origin  https://github.com/usuario/repositorio.git (fetch)
 origin  https://github.com/usuario/repositorio.git (push)
+```
