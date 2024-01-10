@@ -69,11 +69,11 @@ Fazendo um pull request
 
 ![Atribuido a membro ](./assets/image-1.png)
 Personalizando label
-![Editando labels](./assets/image-2.png)
-![Alterando informações da label](./assets/image-3.png)
-![Adicionando nova label](./assets/image-4.png)
+![Editando labels](./assets/image-2.png) <br><br>
+![Alterando informações da label](./assets/image-3.png)<br><br>
+![Adicionando nova label](./assets/image-4.png)<br><br>
 Atribuindo Issue a um projeto
-![Selecionando Projeto](./assets/image-5.png)
+![Selecionando Projeto](./assets/image-5.png)<br><br>
 
 Enviando as alterações locais para um repositório remoto.
 
